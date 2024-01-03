@@ -1,4 +1,4 @@
-# newhacks-2023: Baby AI
+# Newhacks-2023: Baby AI
 
 Looking to push the boundaries of accessible education, introducing **Baby AI**
 
